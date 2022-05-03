@@ -1,0 +1,114 @@
+*{padding: 0;
+margin: 0;}
+
+
+
+
+.banner h1{margin: 50px;
+        width: 90%;
+        background: #04d1ff;
+        height: 80px;
+        left: 00px;
+        text-align: center;
+        font-size:40px;
+        font-family: 'Calibri';
+        position: relative;
+        top: 0px; 
+        margin-top: 0px;
+        border-radius: 100px;
+
+        font-family: 'calibri';
+        color: rgb(0, 0, 0);
+        box-shadow : 7px 13px 37px 17px #04d1ff;
+        }
+
+        
+
+
+.menu{
+    position: calc(12,12,12,12);
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+    width: 20%;
+    left: 0;
+    background: hsl(191, 97%, 50%);
+    text-align: center;
+    margin-top: 50px;
+    height: 460px;
+    border-radius: 30px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    box-shadow : 7px 13px 37px 17px #04c9ff;
+}
+
+
+
+.contenido{
+    position: absolute;
+    display: inline-block;
+    padding: 0%;
+    margin: 4%;
+    left: 100;
+    width: 1100px;
+    background: #04d1ff;
+    height: 450px;
+    font-size: 18px;
+    font-family: 'Calibri';
+    text-align: center;
+    border-radius: 100px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow : 7px 13px 37px 17px #04bdfb;
+}
+
+
+
+.formulario-registro{
+    width: 400px;
+    background: hsl(194, 92%, 64%);
+    padding:30px ;
+    margin: auto;
+    margin-top: 1px;
+    border-radius: 100px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow : 1px 1px 10px 1px #000000;
+
+}
+
+
+.control{
+    width: 100%;
+    background: #fdfeff;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #000000;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.formulario-registro .boton{
+    width: 100%;
+    background:#0ed1c1b1 ;
+    border: none;
+    border-radius: 4px;
+    color: rgb(2, 2, 2);
+    padding: 12px;
+    font-size: 20px;
+    margin: 26px 10px ;
+}
+
+.formulario-registro .boton:hover{
+    color: white;
+    text-decoration: underline;
+    background: #493c3c;
+    }
+
+.formulario-registro .boton:active{
+        color: white;
+        text-decoration: underline;
+        background: #5cbe75;
+        }
